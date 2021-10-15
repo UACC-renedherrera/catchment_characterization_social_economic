@@ -317,6 +317,8 @@ table_edu_ <- table_edu %>%
 table_edu_ %>%
   write_rds("data/tidy/educational_attainment.rds")
 
+write_csv(table_edu_, "data/tidy/educational_attainment.csv")
+
 unique(table_edu_$name)
 unique(table_edu_$variable)
 

@@ -54,6 +54,7 @@ labor_usa <- labor_usa %>%
          `civilian_labor_unemployed_percent` = `civilian_labor_unemployed_percent` / 100)
 
 write_rds(labor_usa, "data/tidy/labor_usa.rds")
+write_csv(labor_usa, "data/tidy/labor_usa.csv")
 
 labor_usa %>%
   select(year, civilian_labor_unemployed_percent) %>%

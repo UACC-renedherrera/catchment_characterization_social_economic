@@ -1,19 +1,51 @@
-# Social and Economic Risk Factors
+# Social and Economic Factors
 
 
 ## Clone the R Project
 
 
-[https://github.com/UACC-renedherrera/cancer_epidemiology](https://github.com/UACC-renedherrera/cancer_epidemiology)
+https://github.com/UACC-renedherrera/catchment_characterization_social_economic
 
 
 ## View the documentation
 
 
-[https://uacc-renedherrera.github.io/cancer_epidemiology/](https://uacc-renedherrera.github.io/cancer_epidemiology/)
+https://uacc-renedherrera.github.io/catchment_characterization_social_economic/
 
 
-# Demographics
+## High School Graduation
+
+[data/tidy/educational_attainment.rds](../data/tidy/educational_attainment.rds)
+
+
+## Some College
+
+[data/tidy/educational_attainment.rds](../data/tidy/educational_attainment.rds)
+
+
+## College Graduate
+
+[data/tidy/educational_attainment.rds](../data/tidy/educational_attainment.rds)
+
+
+## Unemployment
+
+[data/tidy/labor_usa.rds](../data/tidy/labor_usa.rds)
+
+
+## Uninsured
+
+[data/tidy/uinsured_sahie_az.rds](../data/tidy/uinsured_sahie_az.csv)
+
+
+## Food Insecurity
+
+[data/tidy/food_insecurity.csv](../data/tidy/food_insecurity.csv)
+
+## Households Below Poverty Level
+
+[data/tidy/poverty_level.csv](../data/tidy/poverty_level.csv)
+
 
 
 ## Clone the R Project
